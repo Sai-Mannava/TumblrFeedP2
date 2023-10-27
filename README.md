@@ -22,7 +22,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+ 
 
 [Guide]](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3MxYmxodGRrc3hlMDY3ZWIyNm50cnZ4b2c5ZHBxa2RpMHN0cGlrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tVFQBVJxOWlMPF6JCg/giphy-downsized-large.gif) .
 
